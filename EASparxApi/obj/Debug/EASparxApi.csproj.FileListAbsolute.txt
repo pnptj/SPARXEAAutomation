@@ -1,0 +1,5 @@
+C:\Projects\SPARXEAAutomation\EASparxApi\bin\Debug\EASparxApi.dll
+C:\Projects\SPARXEAAutomation\EASparxApi\bin\Debug\EASparxApi.pdb
+C:\Projects\SPARXEAAutomation\EASparxApi\obj\Debug\EASparxApi.csprojResolveAssemblyReference.cache
+C:\Projects\SPARXEAAutomation\EASparxApi\obj\Debug\EASparxApi.dll
+C:\Projects\SPARXEAAutomation\EASparxApi\obj\Debug\EASparxApi.pdb

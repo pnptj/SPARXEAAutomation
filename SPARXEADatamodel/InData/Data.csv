@@ -1,0 +1,13 @@
+EntityFrom;EntityFromMulti;EntityTo;EntityToMulti
+A;1;B;*
+B;*;C;1
+C;1;D;*
+D;*;E;1
+E;1;F;*
+F;1;G;*
+G;*;A;1
+F;1;B;*
+E;*;C;1
+D;1;D;*
+C;1;E;*
+B;*;F;1

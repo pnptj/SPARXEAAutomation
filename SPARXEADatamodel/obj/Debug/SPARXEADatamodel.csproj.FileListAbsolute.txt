@@ -1,0 +1,11 @@
+C:\Projects\SPARXEAAutomation\SPARXEADatamodel\bin\Debug\SPARXEADatamodel.exe.config
+C:\Projects\SPARXEAAutomation\SPARXEADatamodel\bin\Debug\SPARXEADatamodel.exe
+C:\Projects\SPARXEAAutomation\SPARXEADatamodel\bin\Debug\SPARXEADatamodel.pdb
+C:\Projects\SPARXEAAutomation\SPARXEADatamodel\bin\Debug\EASparxApi.dll
+C:\Projects\SPARXEAAutomation\SPARXEADatamodel\bin\Debug\EASparxApi.pdb
+C:\Projects\SPARXEAAutomation\SPARXEADatamodel\obj\Debug\SPARXEADatamodel.csprojResolveAssemblyReference.cache
+C:\Projects\SPARXEAAutomation\SPARXEADatamodel\obj\Debug\SPARXEADatamodel.Form1.resources
+C:\Projects\SPARXEAAutomation\SPARXEADatamodel\obj\Debug\SPARXEADatamodel.Properties.Resources.resources
+C:\Projects\SPARXEAAutomation\SPARXEADatamodel\obj\Debug\SPARXEADatamodel.csproj.GenerateResource.Cache
+C:\Projects\SPARXEAAutomation\SPARXEADatamodel\obj\Debug\SPARXEADatamodel.exe
+C:\Projects\SPARXEAAutomation\SPARXEADatamodel\obj\Debug\SPARXEADatamodel.pdb
